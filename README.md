@@ -1,4 +1,4 @@
 # best-repo-ever
+<<<<<<< HEAD
 georgy.buklaga@gmail.com
-ddfdgdpkfkl[
-rfgdafgdfgadsffdf
+>>>>>>> origin/master
